@@ -22,4 +22,8 @@ So, we grabbed a bingo game from 5Below the other day for only $3 and it looked 
 * npm install
 * From this point, you can run it on an AVD or do the keystore stuff and build an apk
 
-## Screens & More info @ videlsmith.com
+
+## Screens
+
+![screenshot](/Screenshots/Screenshot1.png "StartScreen")  ![screenshot](/Screenshots/Screenshot2.png "Begin")  ![screenshot](/Screenshots/Screenshot3.png "In Game")  ![screenshot](/Screenshots/Screenshot4.png "Menu")
+![screenshot](/Screenshots/Screenshot5.png "History")
