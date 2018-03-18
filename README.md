@@ -5,9 +5,11 @@ The little thing that you reach into to find the bingo number/letter to call.
 ## Backstory
 So, we grabbed a bingo game from 5Below the other day for only $3 and it looked legit! Until we got home and the instructions mentioned some kind of cage/roller thing that you use to find what letter/number to block off on your bingo board. So...I made an app for that. We use it as is and if my kids like playing bingo, i might add audio/soundFX/animations, but for now its just an app for calling out the bingo numbers and keeping track of what has been called.
 
-I built this specifically to go on my extra S7 that I have for testing, so you might have to tweak some UI settings to be more general.
+Also, I built this specifically to go on my extra S7 that I have for testing, so you might have to tweak some UI settings to be more general.
 
 Also, in the game i got from 5Below, each letter can be one of fifteen values. So 'B' can be from 1-15, 'I' can be from 16-30, and so on.
+
+Annnnd Also - Yes I obviously could have added some 'board' components to make a proper bingo game with some nice features, but the point of THIS app is to fill in for the items missing from the game we bought from 5Below.
 
 ## Features
 * Android only because the device we use when playing bingo is an Android phone
