@@ -1,3 +1,5 @@
+# ARCHIVED - I am not actively working on this repo anymore.
+
 # BingoCage
 
 The little thing that you reach into to find the bingo number/letter to call. 
